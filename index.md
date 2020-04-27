@@ -1,5 +1,5 @@
 ---
-title: Urubu Quickstart
+title: anangsahroni's website
 layout: home 
 content:
     - start
@@ -8,5 +8,5 @@ content:
     - deploy
     - more 
 tagline:
-    Set up your new Urubu project quickly
+    Still configuring this website
 ---
