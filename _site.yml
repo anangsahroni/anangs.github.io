@@ -1,6 +1,6 @@
 brand: anangsahroni
 
-bootswatch: flatly # flatly, yeti, lumen,...
+bootswatch: null # flatly, yeti, lumen,...
 navbar_inverse: false
 bootstrap: 3.4.1
 navbar_right_items: 1
